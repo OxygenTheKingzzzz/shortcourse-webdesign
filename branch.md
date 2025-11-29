@@ -12,3 +12,14 @@
 '''
     git branch <newBranch>
 '''
+'''
+
+### Checkout 001
+'''
+    Update code in file
+'''
+
+### Checkout 002
+'''
+    lastest update
+'''
